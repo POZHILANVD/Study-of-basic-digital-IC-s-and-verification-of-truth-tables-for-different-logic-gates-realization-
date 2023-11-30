@@ -1,5 +1,5 @@
-Name: MUKESH R
-Register Number: 23006020
+Name: POZHILAN.V.D
+Register Number: 23013442
 Experiment1: Study of basic digital IC s and verification of truth tables for different logic gates realization
 AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
@@ -39,7 +39,7 @@ Connect the supply (+5V) to the circuit Switch ON the main switch Press the swit
 Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: MUKESH R
+Developed by: POZHI
 RegisterNumber: 23006020
 module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
@@ -65,30 +65,5 @@ image
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 679 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
 
 
